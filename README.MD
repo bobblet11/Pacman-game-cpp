@@ -8,8 +8,6 @@
   <img src="https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough_800px.gif" alt="Gameplay" width="1920">
 </p>
 
-![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough_800px.gif)
-
 A **Pacman clone written in C++** that runs entirely inside the terminal using **ncurses** and **termios**.  
 Built as a fun project to explore terminal graphics, dynamic memory management, and file I/O.
 

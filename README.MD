@@ -5,6 +5,7 @@
 
 # Pacman Clone 🎮
 ![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough.gif)
+
 A **Pacman clone written in C++** that runs entirely inside the terminal using **ncurses** and **termios**.  
 Built as a fun project to explore terminal graphics, dynamic memory management, and file I/O.
 

@@ -1,11 +1,10 @@
-# Pacman Clone 🎮
-![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough.gif)
-
 [![Made with C++](https://img.shields.io/badge/Made%20with-C++-blue.svg)](https://isocpp.org/)
 [![ncurses](https://img.shields.io/badge/Uses-ncurses-green.svg)](https://invisible-island.net/ncurses/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Platform: Terminal](https://img.shields.io/badge/Platform-Terminal-lightgrey.svg)]()
 
+# Pacman Clone 🎮
+![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough.gif)
 A **Pacman clone written in C++** that runs entirely inside the terminal using **ncurses** and **termios**.  
 Built as a fun project to explore terminal graphics, dynamic memory management, and file I/O.
 

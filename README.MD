@@ -15,8 +15,24 @@ Built as a fun project to explore terminal graphics, dynamic memory management, 
 
 ## 📦 Installation & Quickstart
 
-### Dependencies
-- Requires **ncurses** library for rendering.
+## 🔧 Dependencies
+
+This project requires the **ncurses** development library to compile and run.
+
+### Linux Installation
+
+On **Ubuntu / Debian**:
+```bash
+sudo apt update
+sudo apt install libncurses5-dev libncursesw5-dev
+```
+
+On **Fedora / RHEL / CentOS**:
+```bash
+sudo dnf install ncurses-devel
+# or, on older systems:
+sudo yum install ncurses-devel
+```
 
 ### Build & Run
 ```bash

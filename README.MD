@@ -5,7 +5,7 @@
 
 # Pacman Clone 🎮
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough_800px.gif" alt="Gameplay" width="1920">
+  <img src="https://raw.githubusercontent.com/bobblet11/Pacman-game-cpp/master/playthrough_800px.gif" alt="Gameplay" width="1920">
 </p>
 
 A **Pacman clone written in C++** that runs entirely inside the terminal using **ncurses** and **termios**.  
@@ -37,8 +37,8 @@ sudo yum install ncurses-devel
 ### Build & Run
 ```bash
 # Clone the repository
-git clone https://github.com/bobblet11/Pacman-Project.git
-cd Pacman-Project
+git clone https://github.com/bobblet11/Pacman-game-cpp.git
+cd Pacman-game-cpp
 
 # Compile
 make
@@ -50,10 +50,10 @@ make
 ---
 
 ## 🕹️ Showcase
-![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/pacmangit2.png)
-![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/pacmangit4.png)
-![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/pacmangit3.png)
-![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/pacmangit6.png)
+![Model](https://raw.githubusercontent.com/bobblet11/Pacman-game-cpp/master/pacmangit2.png)
+![Model](https://raw.githubusercontent.com/bobblet11/Pacman-game-cpp/master/pacmangit4.png)
+![Model](https://raw.githubusercontent.com/bobblet11/Pacman-game-cpp/master/pacmangit3.png)
+![Model](https://raw.githubusercontent.com/bobblet11/Pacman-game-cpp/master/pacmangit6.png)
 - Navigate the **main menu** with arrow keys.  
 - Enter a **username** to track high scores.  
 - Play the game: eat all pills, avoid ghosts, and use super pills to turn the tables.  

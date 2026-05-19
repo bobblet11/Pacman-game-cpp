@@ -4,6 +4,10 @@
 [![Platform: Terminal](https://img.shields.io/badge/Platform-Terminal-lightgrey.svg)]()
 
 # Pacman Clone 🎮
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough_800px.gif" alt="Gameplay" width="1920">
+</p>
+
 ![Model](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough_800px.gif)
 
 A **Pacman clone written in C++** that runs entirely inside the terminal using **ncurses** and **termios**.  

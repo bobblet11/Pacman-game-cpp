@@ -1,5 +1,5 @@
 # Pacman Clone 🎮
-![Gameplay](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/pacmangit6.png)
+![Gameplay](https://raw.githubusercontent.com/bobblet11/Pacman-Project/master/playthrough.gif)
 
 [![Made with C++](https://img.shields.io/badge/Made%20with-C++-blue.svg)](https://isocpp.org/)
 [![ncurses](https://img.shields.io/badge/Uses-ncurses-green.svg)](https://invisible-island.net/ncurses/)

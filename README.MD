@@ -18,7 +18,7 @@ Built as a fun project to explore terminal graphics, dynamic memory management, 
 ### Build & Run
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/Pacman-Project.git
+git clone https://github.com/bobblet11/Pacman-Project.git
 cd Pacman-Project
 
 # Compile
